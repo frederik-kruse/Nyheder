@@ -1,0 +1,2 @@
+(this.webpackJsonpNyhederVejrApp=this.webpackJsonpNyhederVejrApp||[]).push([[53],{166:function(n,t,e){"use strict";e.r(t),e.d(t,"startStatusTap",(function(){return o}));var r=e(13),i=e(12),o=function(){var n=window;n.addEventListener("statusTap",(function(){Object(r.h)((function(){var t=n.innerWidth,e=n.innerHeight,o=document.elementFromPoint(t/2,e/2);if(o){var c=o.closest("ion-content");c&&new Promise((function(n){return Object(i.c)(c,n)})).then((function(){Object(r.f)((function(){return c.scrollToTop(300)}))}))}}))}))}}}]);
+//# sourceMappingURL=53.7e35380a.chunk.js.map
